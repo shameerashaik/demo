@@ -150,6 +150,7 @@ body {
     /* background-color: cornflowerblue; */
     position: absolute;
     top: 15rem;
+    left: 12rem;
 
 }
 
@@ -200,7 +201,7 @@ body {
     border-radius: 50%;
     position: absolute;
     top: 13rem;
-    right: 16rem;
+    right: 13rem;
 }
 
 .connect {
