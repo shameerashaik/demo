@@ -208,7 +208,8 @@ body {
     display: flex;
     flex-direction: column;
     position: fixed;
-    top: 38rem;
+    /* top: 38rem; */
+    bottom: 1rem;
     
 }
 
